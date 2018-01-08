@@ -1,0 +1,686 @@
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[11-Nov-2017 06:49:50 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[11-Nov-2017 07:01:37 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[11-Nov-2017 13:21:21 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[11-Nov-2017 13:21:21 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[11-Nov-2017 15:20:43 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[12-Nov-2017 04:43:18 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[12-Nov-2017 04:43:18 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[12-Nov-2017 06:28:01 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[12-Nov-2017 06:29:10 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[12-Nov-2017 06:29:10 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[12-Nov-2017 06:40:02 Etc/GMT] PHP Notice:  Undefined variable: i in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[12-Nov-2017 06:41:49 Etc/GMT] PHP Notice:  Undefined variable: i in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[12-Nov-2017 06:43:37 Etc/GMT] PHP Notice:  Array to string conversion in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[12-Nov-2017 11:55:11 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 115
+[12-Nov-2017 11:55:11 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[13-Nov-2017 04:37:32 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[13-Nov-2017 04:41:56 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[13-Nov-2017 05:11:34 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[13-Nov-2017 05:42:22 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[14-Nov-2017 15:50:42 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[14-Nov-2017 15:50:42 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[14-Nov-2017 16:10:36 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[14-Nov-2017 16:20:46 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[14-Nov-2017 16:20:46 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[14-Nov-2017 16:25:25 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[14-Nov-2017 16:25:25 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[14-Nov-2017 16:37:44 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[14-Nov-2017 16:47:31 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:47:31 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:47:31 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:47:31 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:48:44 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:48:44 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:48:44 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:48:44 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:49:55 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:49:55 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:49:55 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:49:55 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:50:06 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:50:06 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:50:06 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:50:06 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:50:24 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:50:24 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:50:24 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:50:24 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:51:45 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:51:45 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:51:45 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:51:45 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:51:51 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:51:51 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:51:51 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:51:51 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:54:29 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:54:29 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:54:29 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:54:29 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:56:03 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:56:03 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:56:03 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:56:03 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:56:29 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:56:29 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:56:29 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:56:29 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:57:25 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:57:25 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:57:25 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:57:25 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:57:41 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:57:41 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:57:41 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:57:41 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:59:12 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:59:12 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:59:12 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:59:12 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 16:59:51 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 16:59:51 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 16:59:51 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 16:59:51 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:05:06 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:05:06 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:05:06 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:05:06 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:06:49 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:06:49 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:06:49 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:06:49 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:11:49 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 115
+[14-Nov-2017 17:11:49 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[14-Nov-2017 17:14:07 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:14:07 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:14:07 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:14:07 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:14:57 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:14:57 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:14:57 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:14:57 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:15:00 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:15:00 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:15:00 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:15:00 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:15:03 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:15:03 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:15:03 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:15:03 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:16:10 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:16:10 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:16:10 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:16:10 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:23:42 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:23:42 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:23:42 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:23:42 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:24:06 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:24:06 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:24:06 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:24:06 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:24:25 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 115
+[14-Nov-2017 17:24:25 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[14-Nov-2017 17:39:28 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:39:28 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:39:28 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:39:28 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 17:40:34 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 17:40:34 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 17:40:34 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 17:40:34 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 18:05:16 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 115
+[14-Nov-2017 18:05:16 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[14-Nov-2017 18:05:26 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 115
+[14-Nov-2017 18:05:26 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[14-Nov-2017 18:05:46 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 18:05:46 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 18:05:46 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 18:05:46 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 18:08:06 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 18:08:06 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 18:08:06 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 18:08:06 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 20:10:33 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 20:10:33 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 20:10:33 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 20:10:33 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 20:16:43 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 20:16:43 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 20:16:43 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 20:16:43 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 20:17:13 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 20:17:13 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 20:17:13 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 20:17:13 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[14-Nov-2017 20:19:14 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[14-Nov-2017 20:19:14 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[14-Nov-2017 20:19:14 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[14-Nov-2017 20:19:14 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 02:15:27 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 02:15:27 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 02:15:27 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 02:15:27 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 03:12:23 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 03:12:23 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 03:12:23 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 03:12:23 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 03:22:06 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 03:22:06 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 03:22:06 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 03:22:06 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 03:26:32 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 03:26:32 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 03:26:32 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 03:26:32 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 03:26:45 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 03:26:45 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 03:26:45 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 03:26:45 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 03:28:45 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 03:28:45 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 03:28:45 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 03:28:45 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 03:29:10 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 03:29:10 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 03:29:10 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 03:29:10 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 03:47:42 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 03:47:42 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 03:47:42 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 03:47:42 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 06:25:41 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 06:25:41 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 06:25:41 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 06:25:41 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 06:52:22 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 06:52:22 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 06:52:22 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 06:52:22 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 06:54:23 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 06:54:23 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 06:54:23 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 06:54:23 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 06:54:46 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 06:54:46 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 06:54:46 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 06:54:46 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:24:11 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:24:11 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:24:11 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:24:11 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:25:13 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:25:13 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:25:13 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:25:13 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:27:27 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:27:27 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:27:27 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:27:27 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:28:22 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:28:22 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:28:22 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:28:22 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:28:55 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:28:55 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:28:55 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:28:55 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:33:18 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:33:18 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:33:18 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:33:18 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:35:01 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:35:01 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:35:01 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:35:01 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:35:31 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:35:31 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:35:31 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:35:31 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:35:55 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:35:55 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:35:55 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:35:55 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:36:03 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:36:03 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:36:03 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:36:03 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:36:06 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:36:06 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:36:06 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:36:06 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:36:11 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:36:11 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:36:11 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:36:11 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:36:18 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:36:18 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:36:18 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:36:18 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:36:27 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:36:27 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:36:27 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:36:27 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:46:17 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:46:17 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:46:17 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:46:17 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:47:02 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:47:02 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:47:02 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:47:02 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:49:36 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:49:36 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:49:36 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:49:36 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:49:55 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:49:55 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:49:55 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:49:55 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:51:47 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:51:47 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:51:47 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:51:47 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:52:53 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:52:53 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:52:53 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:52:53 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 07:54:13 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 07:54:13 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 07:54:13 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 07:54:13 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 08:04:50 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 08:04:50 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 08:04:50 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 08:04:50 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 09:24:43 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 09:24:43 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 09:24:43 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 09:24:43 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 09:26:22 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 115
+[15-Nov-2017 09:26:22 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[15-Nov-2017 09:28:28 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 115
+[15-Nov-2017 09:28:28 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[15-Nov-2017 09:28:54 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 115
+[15-Nov-2017 09:28:54 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/check_event.php on line 126
+[15-Nov-2017 09:29:10 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 09:29:10 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 09:29:10 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 09:29:10 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 09:30:19 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 09:30:19 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 09:30:19 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 09:30:19 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 15:19:49 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 15:19:49 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 15:19:49 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 15:19:49 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 15:38:43 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 15:38:43 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 15:38:43 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 15:38:43 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 15:38:57 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 15:38:57 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 15:38:57 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 15:38:57 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 15:39:34 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 15:39:34 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 15:39:34 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 15:39:34 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 15:39:38 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 15:39:38 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 15:39:38 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 15:39:38 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 15:39:43 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 15:39:43 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 15:39:43 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 15:39:43 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 18:03:31 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 18:03:31 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 18:03:31 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 18:03:31 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 18:05:27 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 18:05:27 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 18:05:27 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 18:05:27 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[15-Nov-2017 18:31:03 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[15-Nov-2017 18:31:03 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[15-Nov-2017 18:31:03 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[15-Nov-2017 18:31:03 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 05:16:26 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 05:16:26 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 05:16:26 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 05:16:26 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 05:16:39 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 05:16:39 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 05:16:39 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 05:16:39 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 05:16:58 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 05:16:58 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 05:16:58 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 05:16:58 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 05:17:16 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 05:17:16 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 05:17:16 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 05:17:16 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 05:17:29 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 05:17:29 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 05:17:29 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 05:17:29 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 05:17:44 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 05:17:44 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 05:17:44 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 05:17:44 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 05:18:11 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 05:18:11 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 05:18:11 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 05:18:11 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 06:07:48 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 06:07:48 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 06:07:48 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 06:07:48 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 06:11:10 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 06:11:10 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 06:11:10 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 06:11:10 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 06:12:26 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[16-Nov-2017 06:12:26 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[16-Nov-2017 06:32:47 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 06:32:47 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 06:32:47 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 06:32:47 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:19:06 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:19:06 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:19:06 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:19:06 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:21:29 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:21:29 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:21:29 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:21:29 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:35:33 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:35:33 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:35:33 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:35:33 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:35:48 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:35:48 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:35:48 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:35:48 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:37:56 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:37:56 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:37:56 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:37:56 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:38:24 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:38:24 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:38:24 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:38:24 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:38:34 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:38:34 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:38:34 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:38:34 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:55:49 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:55:49 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:55:49 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:55:49 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:56:11 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:56:11 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:56:11 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:56:11 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 07:56:54 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 07:56:54 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 07:56:54 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 07:56:54 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 08:12:33 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 08:12:33 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 08:12:33 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 08:12:33 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 08:14:07 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 08:14:07 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 08:14:07 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 08:14:07 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 08:19:14 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 08:19:14 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 08:19:14 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 08:19:14 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 08:24:59 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 08:24:59 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 08:24:59 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 08:24:59 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 08:26:25 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 08:26:25 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 08:26:25 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 08:26:25 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 09:30:29 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 09:30:29 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 09:30:29 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 09:30:29 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 09:31:17 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 09:31:17 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 09:31:17 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 09:31:17 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 11:31:13 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 11:31:13 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 11:31:13 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 11:31:13 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 11:56:50 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 11:56:50 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 11:56:50 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 11:56:50 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 12:43:50 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 12:43:50 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 12:43:50 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 12:43:50 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 13:38:24 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 13:38:24 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 13:38:24 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 13:38:24 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:29:26 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:29:26 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:29:26 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:29:26 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:29:37 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:29:37 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:29:37 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:29:37 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:29:42 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:29:42 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:29:42 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:29:42 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:31:08 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:31:08 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:31:08 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:31:08 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:31:11 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:31:11 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:31:11 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:31:11 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:31:23 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:31:23 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:31:23 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:31:23 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:31:28 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:31:28 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:31:28 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:31:28 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:38:19 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:38:19 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:38:19 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:38:19 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:38:23 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:38:23 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:38:23 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:38:23 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:38:43 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:38:43 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:38:43 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:38:43 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:38:47 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:38:47 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:38:47 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:38:47 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:45:15 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:45:15 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:45:15 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:45:15 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 14:49:20 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 14:49:20 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 14:49:20 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 14:49:20 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 15:41:48 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 15:41:48 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 15:41:48 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 15:41:48 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 15:42:09 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 15:42:09 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 15:42:09 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 15:42:09 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 15:42:20 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 15:42:20 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 15:42:20 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 15:42:20 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 16:42:55 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 16:42:55 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 16:42:55 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 16:42:55 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 17:01:16 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 17:01:16 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 17:01:16 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 17:01:16 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 17:04:55 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 17:04:55 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 17:04:55 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 17:04:55 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 17:33:32 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 17:33:32 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 17:33:32 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 17:33:32 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 17:36:38 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 17:36:38 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 17:36:38 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 17:36:38 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 17:46:38 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 17:46:38 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 17:46:38 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 17:46:38 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 18:04:55 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 18:04:55 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 18:04:55 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 18:04:55 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 18:07:52 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 18:07:52 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 18:07:52 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 18:07:52 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[16-Nov-2017 18:29:14 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[16-Nov-2017 18:29:14 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[16-Nov-2017 18:29:14 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[16-Nov-2017 18:29:14 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: form_no in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 3
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: name1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 4
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: cid in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 5
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: oc in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 9
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: br in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 10
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: year1 in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 11
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: contact in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 12
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: mail in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 13
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Notice:  Undefined index: cb in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 14
+[17-Nov-2017 03:26:25 Etc/GMT] PHP Warning:  implode(): Invalid arguments passed in /home/ugienigma24/public_html/enigmacore/for_core/index_process.php on line 15
+[17-Nov-2017 05:08:47 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[17-Nov-2017 05:08:47 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[17-Nov-2017 05:08:47 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[17-Nov-2017 05:08:47 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[17-Nov-2017 05:58:13 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[17-Nov-2017 05:58:13 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[17-Nov-2017 05:58:13 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[17-Nov-2017 05:58:13 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[18-Nov-2017 08:30:10 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[18-Nov-2017 08:30:10 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[18-Nov-2017 08:30:10 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[18-Nov-2017 08:30:10 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[18-Nov-2017 19:35:25 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[18-Nov-2017 19:35:25 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[18-Nov-2017 19:35:25 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[18-Nov-2017 19:35:25 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
+[19-Nov-2017 13:17:29 Etc/GMT] PHP Notice:  Constant HOST already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 2
+[19-Nov-2017 13:17:29 Etc/GMT] PHP Notice:  Constant USER already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 3
+[19-Nov-2017 13:17:29 Etc/GMT] PHP Notice:  Constant PASS already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 4
+[19-Nov-2017 13:17:29 Etc/GMT] PHP Notice:  Constant DB already defined in /home/ugienigma24/public_html/enigmacore/for_core/database.php on line 5
